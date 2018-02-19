@@ -2,7 +2,7 @@
 
 void foo()
 {
-
+std::cout << "testks" <<std::endl;
 std::cout << "siemka" <<std::endl;
 
 }

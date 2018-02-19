@@ -4,6 +4,7 @@ void foo()
 {
 
 std::cout << "siemka" <<std::endl;
+
 }
 
 int main()
